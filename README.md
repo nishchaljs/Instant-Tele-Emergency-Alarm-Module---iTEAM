@@ -16,7 +16,7 @@ This project aims to propose and build a state-of-the-art technology called the 
  - Piezoelectric buzzer
  
 ## KEIL Implementation
-This repository gives access to the embeded C code suitable wrote on KEIL editor for ARM LPC2148 module
+This repository gives access to the embedded C code suitable wrote on KEIL editor for ARM LPC2148 module
  
  ## Benefits of iTEAM
  	Extremely Low-cost device used for multi-purpose utilities  
